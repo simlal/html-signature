@@ -1,5 +1,5 @@
 # html signature for emails
-![signature example](./sig_example.png)
+![signature example](./ex_sig.png)
 
 ---
 ## Source :
