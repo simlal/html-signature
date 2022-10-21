@@ -8,5 +8,5 @@
 
 ## How it works :
 <u>index.html</u> : Use structure as you see fit, change the inline stylings to your liking and replace with your information
-<u>Icons</u> : Put .svg files in /img directory and change the href accordingly on the index.html
+<u>Icons</u> : Put .svg files in /img directory and change the href accordingly on the index.html. I recommand .png files to avoid display issues within Gmail for example
 
